@@ -96,11 +96,21 @@ ___굵은 기울임___
 
 [구글](https://www.google.com/, "구글임")
 
-![image](./img/이미지.png)
+![대체 텍스트](img/이미지.png)
+
+![img](./img/이미지.png)
 
 ![대체 텍스트](img/이미지 10.png)
 
-![image](./img/img.png)
+![img](./img/이미지 10.png)
+
+![대체 텍스트](img/img.png)
+
+![img](./img/img.png)
 
 ![대체 텍스트](img/im g.png)
+
+![img](./img/im g.png)
+
+파일 이름에 띄어쓰기 있으면 안되나보네
 
